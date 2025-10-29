@@ -1,0 +1,59 @@
+"today" = "Hari Ini";
+"tasks" = "Tugas";
+"habits" = "Kebiasaan";
+"summary" = "Ringkasan";
+
+"daily_progress" = "Kemajuan Harian";
+"complete" = "Selesai";
+
+"task_title" = "Judul tugas";
+"habit_name" = "Nama kebiasaan";
+"cancel" = "Batal";
+"add" = "Tambah";
+"delete" = "Hapus";
+
+"new_task" = "Tugas Baru";
+"task_details" = "Detail Tugas";
+"important" = "Penting";
+"set_deadline" = "Tetapkan Tenggat";
+"deadline" = "Tenggat";
+
+"new_habit" = "Kebiasaan Baru";
+"habit_details" = "Detail Kebiasaan";
+"choose_icon" = "Pilih Ikon";
+
+"all_tasks" = "Semua Tugas";
+"upcoming" = "Akan Datang";
+
+"day_streak" = "hari berturut-turut";
+
+"weekly_tasks_completed" = "Tugas Selesai Mingguan";
+"habits_progress" = "Kemajuan Kebiasaan";
+"achievements" = "Pencapaian";
+"activity_calendar" = "Kalender Aktivitas";
+
+"achievement_first_task" = "Tugas Pertama";
+"achievement_first_task_desc" = "Selesaikan tugas pertama Anda";
+"achievement_task_master" = "Master Tugas";
+"achievement_task_master_desc" = "Selesaikan 5 tugas dalam satu hari";
+"achievement_week_warrior" = "Pejuang Minggu";
+"achievement_week_warrior_desc" = "Selesaikan kebiasaan selama 7 hari berturut-turut";
+"achievement_consistent" = "Konsisten";
+"achievement_consistent_desc" = "Gunakan aplikasi selama 7 hari";
+"achievement_organized" = "Terorganisir";
+"achievement_organized_desc" = "Buat 10 tugas";
+
+"language" = "Bahasa";
+"select_language" = "Pilih Bahasa";
+"welcome" = "Selamat datang!";
+"choose_language" = "Pilih bahasa Anda";
+"continue" = "Lanjutkan";
+
+"day_mon" = "S";
+"day_tue" = "S";
+"day_wed" = "R";
+"day_thu" = "K";
+"day_fri" = "J";
+"day_sat" = "S";
+"day_sun" = "M";
+

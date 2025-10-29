@@ -1,0 +1,59 @@
+"today" = "Hôm nay";
+"tasks" = "Nhiệm vụ";
+"habits" = "Thói quen";
+"summary" = "Tóm tắt";
+
+"daily_progress" = "Tiến độ hàng ngày";
+"complete" = "Hoàn thành";
+
+"task_title" = "Tiêu đề nhiệm vụ";
+"habit_name" = "Tên thói quen";
+"cancel" = "Hủy";
+"add" = "Thêm";
+"delete" = "Xóa";
+
+"new_task" = "Nhiệm Vụ Mới";
+"task_details" = "Chi Tiết Nhiệm Vụ";
+"important" = "Quan trọng";
+"set_deadline" = "Đặt Hạn Chót";
+"deadline" = "Hạn chót";
+
+"new_habit" = "Thói Quen Mới";
+"habit_details" = "Chi Tiết Thói Quen";
+"choose_icon" = "Chọn Biểu Tượng";
+
+"all_tasks" = "Tất Cả Nhiệm Vụ";
+"upcoming" = "Sắp Tới";
+
+"day_streak" = "ngày liên tiếp";
+
+"weekly_tasks_completed" = "Nhiệm Vụ Hoàn Thành Hàng Tuần";
+"habits_progress" = "Tiến Độ Thói Quen";
+"achievements" = "Thành Tích";
+"activity_calendar" = "Lịch Hoạt Động";
+
+"achievement_first_task" = "Nhiệm Vụ Đầu Tiên";
+"achievement_first_task_desc" = "Hoàn thành nhiệm vụ đầu tiên của bạn";
+"achievement_task_master" = "Bậc Thầy Nhiệm Vụ";
+"achievement_task_master_desc" = "Hoàn thành 5 nhiệm vụ trong một ngày";
+"achievement_week_warrior" = "Chiến Binh Tuần";
+"achievement_week_warrior_desc" = "Hoàn thành thói quen trong 7 ngày liên tiếp";
+"achievement_consistent" = "Nhất quán";
+"achievement_consistent_desc" = "Sử dụng ứng dụng trong 7 ngày";
+"achievement_organized" = "Có Tổ Chức";
+"achievement_organized_desc" = "Tạo 10 nhiệm vụ";
+
+"language" = "Ngôn ngữ";
+"select_language" = "Chọn Ngôn Ngữ";
+"welcome" = "Chào mừng!";
+"choose_language" = "Chọn ngôn ngữ của bạn";
+"continue" = "Tiếp tục";
+
+"day_mon" = "T2";
+"day_tue" = "T3";
+"day_wed" = "T4";
+"day_thu" = "T5";
+"day_fri" = "T6";
+"day_sat" = "T7";
+"day_sun" = "CN";
+

@@ -1,0 +1,59 @@
+"today" = "आज";
+"tasks" = "कार्य";
+"habits" = "आदतें";
+"summary" = "सारांश";
+
+"daily_progress" = "दैनिक प्रगति";
+"complete" = "पूर्ण";
+
+"task_title" = "कार्य शीर्षक";
+"habit_name" = "आदत का नाम";
+"cancel" = "रद्द करें";
+"add" = "जोड़ें";
+"delete" = "हटाएं";
+
+"new_task" = "नया कार्य";
+"task_details" = "कार्य विवरण";
+"important" = "महत्वपूर्ण";
+"set_deadline" = "समय सीमा निर्धारित करें";
+"deadline" = "समय सीमा";
+
+"new_habit" = "नई आदत";
+"habit_details" = "आदत विवरण";
+"choose_icon" = "आइकन चुनें";
+
+"all_tasks" = "सभी कार्य";
+"upcoming" = "आगामी";
+
+"day_streak" = "दिन लगातार";
+
+"weekly_tasks_completed" = "साप्ताहिक पूर्ण कार्य";
+"habits_progress" = "आदतों की प्रगति";
+"achievements" = "उपलब्धियां";
+"activity_calendar" = "गतिविधि कैलेंडर";
+
+"achievement_first_task" = "पहला कार्य";
+"achievement_first_task_desc" = "अपना पहला कार्य पूरा करें";
+"achievement_task_master" = "कार्य मास्टर";
+"achievement_task_master_desc" = "एक दिन में 5 कार्य पूरे करें";
+"achievement_week_warrior" = "सप्ताह योद्धा";
+"achievement_week_warrior_desc" = "7 दिनों तक लगातार आदतें पूरी करें";
+"achievement_consistent" = "निरंतर";
+"achievement_consistent_desc" = "7 दिनों तक ऐप का उपयोग करें";
+"achievement_organized" = "व्यवस्थित";
+"achievement_organized_desc" = "10 कार्य बनाएं";
+
+"language" = "भाषा";
+"select_language" = "भाषा चुनें";
+"welcome" = "स्वागत है!";
+"choose_language" = "अपनी भाषा चुनें";
+"continue" = "जारी रखें";
+
+"day_mon" = "सो";
+"day_tue" = "मं";
+"day_wed" = "बु";
+"day_thu" = "गु";
+"day_fri" = "शु";
+"day_sat" = "श";
+"day_sun" = "र";
+

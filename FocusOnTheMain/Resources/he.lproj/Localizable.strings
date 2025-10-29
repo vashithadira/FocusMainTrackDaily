@@ -1,0 +1,59 @@
+"today" = "היום";
+"tasks" = "משימות";
+"habits" = "הרגלים";
+"summary" = "סיכום";
+
+"daily_progress" = "התקדמות יומית";
+"complete" = "הושלם";
+
+"task_title" = "כותרת משימה";
+"habit_name" = "שם הרגל";
+"cancel" = "ביטול";
+"add" = "הוספה";
+"delete" = "מחיקה";
+
+"new_task" = "משימה חדשה";
+"task_details" = "פרטי משימה";
+"important" = "חשוב";
+"set_deadline" = "הגדרת מועד אחרון";
+"deadline" = "מועד אחרון";
+
+"new_habit" = "הרגל חדש";
+"habit_details" = "פרטי הרגל";
+"choose_icon" = "בחר סמל";
+
+"all_tasks" = "כל המשימות";
+"upcoming" = "קרובות";
+
+"day_streak" = "ימים ברציפות";
+
+"weekly_tasks_completed" = "משימות שהושלמו שבועית";
+"habits_progress" = "התקדמות הרגלים";
+"achievements" = "הישגים";
+"activity_calendar" = "לוח פעילות";
+
+"achievement_first_task" = "משימה ראשונה";
+"achievement_first_task_desc" = "השלם את המשימה הראשונה שלך";
+"achievement_task_master" = "מאסטר משימות";
+"achievement_task_master_desc" = "השלם 5 משימות ביום אחד";
+"achievement_week_warrior" = "לוחם שבועי";
+"achievement_week_warrior_desc" = "השלם הרגלים במשך 7 ימים ברצף";
+"achievement_consistent" = "עקבי";
+"achievement_consistent_desc" = "השתמש באפליקציה למשך 7 ימים";
+"achievement_organized" = "מאורגן";
+"achievement_organized_desc" = "צור 10 משימות";
+
+"language" = "שפה";
+"select_language" = "בחר שפה";
+"welcome" = "ברוך הבא!";
+"choose_language" = "בחר את השפה שלך";
+"continue" = "המשך";
+
+"day_mon" = "ב";
+"day_tue" = "ג";
+"day_wed" = "ד";
+"day_thu" = "ה";
+"day_fri" = "ו";
+"day_sat" = "ש";
+"day_sun" = "א";
+

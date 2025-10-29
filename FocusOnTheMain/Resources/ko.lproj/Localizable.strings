@@ -1,0 +1,59 @@
+"today" = "오늘";
+"tasks" = "작업";
+"habits" = "습관";
+"summary" = "요약";
+
+"daily_progress" = "일일 진행";
+"complete" = "완료";
+
+"task_title" = "작업 제목";
+"habit_name" = "습관 이름";
+"cancel" = "취소";
+"add" = "추가";
+"delete" = "삭제";
+
+"new_task" = "새 작업";
+"task_details" = "작업 세부정보";
+"important" = "중요";
+"set_deadline" = "마감일 설정";
+"deadline" = "마감일";
+
+"new_habit" = "새 습관";
+"habit_details" = "습관 세부정보";
+"choose_icon" = "아이콘 선택";
+
+"all_tasks" = "모든 작업";
+"upcoming" = "예정";
+
+"day_streak" = "일 연속";
+
+"weekly_tasks_completed" = "주간 완료 작업";
+"habits_progress" = "습관 진행";
+"achievements" = "업적";
+"activity_calendar" = "활동 캘린더";
+
+"achievement_first_task" = "첫 번째 작업";
+"achievement_first_task_desc" = "첫 번째 작업 완료";
+"achievement_task_master" = "작업 마스터";
+"achievement_task_master_desc" = "하루에 5개 작업 완료";
+"achievement_week_warrior" = "주간 전사";
+"achievement_week_warrior_desc" = "7일 연속 습관 완료";
+"achievement_consistent" = "일관성";
+"achievement_consistent_desc" = "7일 동안 앱 사용";
+"achievement_organized" = "정리됨";
+"achievement_organized_desc" = "10개 작업 생성";
+
+"language" = "언어";
+"select_language" = "언어 선택";
+"welcome" = "환영합니다!";
+"choose_language" = "언어를 선택하세요";
+"continue" = "계속";
+
+"day_mon" = "월";
+"day_tue" = "화";
+"day_wed" = "수";
+"day_thu" = "목";
+"day_fri" = "금";
+"day_sat" = "토";
+"day_sun" = "일";
+

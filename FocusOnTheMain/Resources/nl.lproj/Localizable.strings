@@ -1,0 +1,59 @@
+"today" = "Vandaag";
+"tasks" = "Taken";
+"habits" = "Gewoontes";
+"summary" = "Samenvatting";
+
+"daily_progress" = "Dagelijkse voortgang";
+"complete" = "Voltooid";
+
+"task_title" = "Taaknaam";
+"habit_name" = "Gewoontenaam";
+"cancel" = "Annuleren";
+"add" = "Toevoegen";
+"delete" = "Verwijderen";
+
+"new_task" = "Nieuwe taak";
+"task_details" = "Taakdetails";
+"important" = "Belangrijk";
+"set_deadline" = "Deadline instellen";
+"deadline" = "Deadline";
+
+"new_habit" = "Nieuwe gewoonte";
+"habit_details" = "Gewoontedetails";
+"choose_icon" = "Pictogram kiezen";
+
+"all_tasks" = "Alle taken";
+"upcoming" = "Komend";
+
+"day_streak" = "dagen op rij";
+
+"weekly_tasks_completed" = "Wekelijks voltooide taken";
+"habits_progress" = "Gewoontes voortgang";
+"achievements" = "Prestaties";
+"activity_calendar" = "Activiteitenkalender";
+
+"achievement_first_task" = "Eerste taak";
+"achievement_first_task_desc" = "Voltooi je eerste taak";
+"achievement_task_master" = "Takenmeester";
+"achievement_task_master_desc" = "Voltooi 5 taken op één dag";
+"achievement_week_warrior" = "Weekstrijder";
+"achievement_week_warrior_desc" = "Voltooi gewoontes 7 dagen achter elkaar";
+"achievement_consistent" = "Consequent";
+"achievement_consistent_desc" = "Gebruik de app 7 dagen";
+"achievement_organized" = "Georganiseerd";
+"achievement_organized_desc" = "Maak 10 taken aan";
+
+"language" = "Taal";
+"select_language" = "Selecteer taal";
+"welcome" = "Welkom!";
+"choose_language" = "Kies je taal";
+"continue" = "Doorgaan";
+
+"day_mon" = "M";
+"day_tue" = "D";
+"day_wed" = "W";
+"day_thu" = "D";
+"day_fri" = "V";
+"day_sat" = "Z";
+"day_sun" = "Z";
+

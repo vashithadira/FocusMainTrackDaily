@@ -1,0 +1,59 @@
+"today" = "Today";
+"tasks" = "Tasks";
+"habits" = "Habits";
+"summary" = "Summary";
+
+"daily_progress" = "Daily Progress";
+"complete" = "Complete";
+
+"task_title" = "Task title";
+"habit_name" = "Habit name";
+"cancel" = "Cancel";
+"add" = "Add";
+"delete" = "Delete";
+
+"new_task" = "New Task";
+"task_details" = "Task Details";
+"important" = "Important";
+"set_deadline" = "Set Deadline";
+"deadline" = "Deadline";
+
+"new_habit" = "New Habit";
+"habit_details" = "Habit Details";
+"choose_icon" = "Choose Icon";
+
+"all_tasks" = "All Tasks";
+"upcoming" = "Upcoming";
+
+"day_streak" = "day streak";
+
+"weekly_tasks_completed" = "Weekly Tasks Completed";
+"habits_progress" = "Habits Progress";
+"achievements" = "Achievements";
+"activity_calendar" = "Activity Calendar";
+
+"achievement_first_task" = "First Task";
+"achievement_first_task_desc" = "Complete your first task";
+"achievement_task_master" = "Task Master";
+"achievement_task_master_desc" = "Complete 5 tasks in one day";
+"achievement_week_warrior" = "Week Warrior";
+"achievement_week_warrior_desc" = "Complete habits for 7 days straight";
+"achievement_consistent" = "Consistent";
+"achievement_consistent_desc" = "Use app for 7 days";
+"achievement_organized" = "Organised";
+"achievement_organized_desc" = "Create 10 tasks";
+
+"language" = "Language";
+"select_language" = "Select Language";
+"welcome" = "Welcome!";
+"choose_language" = "Choose your language";
+"continue" = "Continue";
+
+"day_mon" = "M";
+"day_tue" = "T";
+"day_wed" = "W";
+"day_thu" = "T";
+"day_fri" = "F";
+"day_sat" = "S";
+"day_sun" = "S";
+

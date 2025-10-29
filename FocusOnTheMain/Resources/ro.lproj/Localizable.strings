@@ -1,0 +1,59 @@
+"today" = "Astăzi";
+"tasks" = "Sarcini";
+"habits" = "Obiceiuri";
+"summary" = "Rezumat";
+
+"daily_progress" = "Progres zilnic";
+"complete" = "Complet";
+
+"task_title" = "Titlul sarcinii";
+"habit_name" = "Numele obiceiului";
+"cancel" = "Anulare";
+"add" = "Adaugă";
+"delete" = "Șterge";
+
+"new_task" = "Sarcină Nouă";
+"task_details" = "Detalii Sarcină";
+"important" = "Important";
+"set_deadline" = "Setează Termen";
+"deadline" = "Termen";
+
+"new_habit" = "Obicei Nou";
+"habit_details" = "Detalii Obicei";
+"choose_icon" = "Alege Iconiță";
+
+"all_tasks" = "Toate Sarcinile";
+"upcoming" = "Viitoare";
+
+"day_streak" = "zile consecutive";
+
+"weekly_tasks_completed" = "Sarcini Săptămânale Finalizate";
+"habits_progress" = "Progres Obiceiuri";
+"achievements" = "Realizări";
+"activity_calendar" = "Calendar Activitate";
+
+"achievement_first_task" = "Prima Sarcină";
+"achievement_first_task_desc" = "Finalizează prima ta sarcină";
+"achievement_task_master" = "Maestru Sarcini";
+"achievement_task_master_desc" = "Finalizează 5 sarcini într-o zi";
+"achievement_week_warrior" = "Războinic Săptămânal";
+"achievement_week_warrior_desc" = "Finalizează obiceiuri timp de 7 zile consecutive";
+"achievement_consistent" = "Consistent";
+"achievement_consistent_desc" = "Folosește aplicația timp de 7 zile";
+"achievement_organized" = "Organizat";
+"achievement_organized_desc" = "Creează 10 sarcini";
+
+"language" = "Limbă";
+"select_language" = "Selectează Limba";
+"welcome" = "Bun venit!";
+"choose_language" = "Alege limba ta";
+"continue" = "Continuă";
+
+"day_mon" = "L";
+"day_tue" = "M";
+"day_wed" = "M";
+"day_thu" = "J";
+"day_fri" = "V";
+"day_sat" = "S";
+"day_sun" = "D";
+

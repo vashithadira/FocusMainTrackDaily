@@ -1,0 +1,59 @@
+"today" = "I dag";
+"tasks" = "Oppgaver";
+"habits" = "Vaner";
+"summary" = "Sammendrag";
+
+"daily_progress" = "Daglig fremgang";
+"complete" = "Fullført";
+
+"task_title" = "Oppgavetittel";
+"habit_name" = "Vanenavn";
+"cancel" = "Avbryt";
+"add" = "Legg til";
+"delete" = "Slett";
+
+"new_task" = "Ny Oppgave";
+"task_details" = "Oppgavedetaljer";
+"important" = "Viktig";
+"set_deadline" = "Angi Frist";
+"deadline" = "Frist";
+
+"new_habit" = "Ny Vane";
+"habit_details" = "Vanedetaljer";
+"choose_icon" = "Velg Ikon";
+
+"all_tasks" = "Alle Oppgaver";
+"upcoming" = "Kommende";
+
+"day_streak" = "dager på rad";
+
+"weekly_tasks_completed" = "Ukentlige Fullførte Oppgaver";
+"habits_progress" = "Vanefremgang";
+"achievements" = "Prestasjoner";
+"activity_calendar" = "Aktivitetskalender";
+
+"achievement_first_task" = "Første Oppgave";
+"achievement_first_task_desc" = "Fullfør din første oppgave";
+"achievement_task_master" = "Oppgavemester";
+"achievement_task_master_desc" = "Fullfør 5 oppgaver på en dag";
+"achievement_week_warrior" = "Ukekrigger";
+"achievement_week_warrior_desc" = "Fullfør vaner i 7 dager på rad";
+"achievement_consistent" = "Konsistent";
+"achievement_consistent_desc" = "Bruk appen i 7 dager";
+"achievement_organized" = "Organisert";
+"achievement_organized_desc" = "Opprett 10 oppgaver";
+
+"language" = "Språk";
+"select_language" = "Velg Språk";
+"welcome" = "Velkommen!";
+"choose_language" = "Velg ditt språk";
+"continue" = "Fortsett";
+
+"day_mon" = "M";
+"day_tue" = "T";
+"day_wed" = "O";
+"day_thu" = "T";
+"day_fri" = "F";
+"day_sat" = "L";
+"day_sun" = "S";
+

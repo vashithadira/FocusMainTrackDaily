@@ -1,0 +1,59 @@
+"today" = "Idag";
+"tasks" = "Uppgifter";
+"habits" = "Vanor";
+"summary" = "Sammanfattning";
+
+"daily_progress" = "Daglig framsteg";
+"complete" = "Klar";
+
+"task_title" = "Uppgiftstitel";
+"habit_name" = "Varans namn";
+"cancel" = "Avbryt";
+"add" = "Lägg till";
+"delete" = "Ta bort";
+
+"new_task" = "Ny Uppgift";
+"task_details" = "Uppgiftsdetaljer";
+"important" = "Viktig";
+"set_deadline" = "Ange Deadline";
+"deadline" = "Deadline";
+
+"new_habit" = "Ny Vana";
+"habit_details" = "Vanadetaljer";
+"choose_icon" = "Välj Ikon";
+
+"all_tasks" = "Alla Uppgifter";
+"upcoming" = "Kommande";
+
+"day_streak" = "dagar i rad";
+
+"weekly_tasks_completed" = "Veckovisa Slutförda Uppgifter";
+"habits_progress" = "Vaneframsteg";
+"achievements" = "Prestationer";
+"activity_calendar" = "Aktivitetskalender";
+
+"achievement_first_task" = "Första Uppgiften";
+"achievement_first_task_desc" = "Slutför din första uppgift";
+"achievement_task_master" = "Uppgiftsmästare";
+"achievement_task_master_desc" = "Slutför 5 uppgifter på en dag";
+"achievement_week_warrior" = "Veckokrigare";
+"achievement_week_warrior_desc" = "Slutför vanor i 7 dagar i rad";
+"achievement_consistent" = "Konsekvent";
+"achievement_consistent_desc" = "Använd appen i 7 dagar";
+"achievement_organized" = "Organiserad";
+"achievement_organized_desc" = "Skapa 10 uppgifter";
+
+"language" = "Språk";
+"select_language" = "Välj Språk";
+"welcome" = "Välkommen!";
+"choose_language" = "Välj ditt språk";
+"continue" = "Fortsätt";
+
+"day_mon" = "M";
+"day_tue" = "T";
+"day_wed" = "O";
+"day_thu" = "T";
+"day_fri" = "F";
+"day_sat" = "L";
+"day_sun" = "S";
+

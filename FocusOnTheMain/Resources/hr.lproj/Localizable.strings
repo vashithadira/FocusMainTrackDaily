@@ -1,0 +1,59 @@
+"today" = "Danas";
+"tasks" = "Zadaci";
+"habits" = "Navike";
+"summary" = "Sažetak";
+
+"daily_progress" = "Dnevni napredak";
+"complete" = "Završeno";
+
+"task_title" = "Naslov zadatka";
+"habit_name" = "Naziv navike";
+"cancel" = "Odustani";
+"add" = "Dodaj";
+"delete" = "Obriši";
+
+"new_task" = "Novi zadatak";
+"task_details" = "Detalji zadatka";
+"important" = "Važno";
+"set_deadline" = "Postavi rok";
+"deadline" = "Rok";
+
+"new_habit" = "Nova navika";
+"habit_details" = "Detalji navike";
+"choose_icon" = "Odaberi ikonu";
+
+"all_tasks" = "Svi zadaci";
+"upcoming" = "Nadolazeći";
+
+"day_streak" = "dana zaredom";
+
+"weekly_tasks_completed" = "Tjedni dovršeni zadaci";
+"habits_progress" = "Napredak navika";
+"achievements" = "Postignuća";
+"activity_calendar" = "Kalendar aktivnosti";
+
+"achievement_first_task" = "Prvi zadatak";
+"achievement_first_task_desc" = "Završi svoj prvi zadatak";
+"achievement_task_master" = "Majstor zadataka";
+"achievement_task_master_desc" = "Završi 5 zadataka u jednom danu";
+"achievement_week_warrior" = "Tjedni ratnik";
+"achievement_week_warrior_desc" = "Završi navike 7 dana zaredom";
+"achievement_consistent" = "Dosljedan";
+"achievement_consistent_desc" = "Koristi aplikaciju 7 dana";
+"achievement_organized" = "Organiziran";
+"achievement_organized_desc" = "Stvori 10 zadataka";
+
+"language" = "Jezik";
+"select_language" = "Odaberi jezik";
+"welcome" = "Dobrodošli!";
+"choose_language" = "Odaberi svoj jezik";
+"continue" = "Nastavi";
+
+"day_mon" = "P";
+"day_tue" = "U";
+"day_wed" = "S";
+"day_thu" = "Č";
+"day_fri" = "P";
+"day_sat" = "S";
+"day_sun" = "N";
+

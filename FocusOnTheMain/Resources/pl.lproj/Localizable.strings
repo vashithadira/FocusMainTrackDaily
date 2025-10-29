@@ -1,0 +1,59 @@
+"today" = "Dzisiaj";
+"tasks" = "Zadania";
+"habits" = "Nawyki";
+"summary" = "Podsumowanie";
+
+"daily_progress" = "Dzienny postęp";
+"complete" = "Ukończone";
+
+"task_title" = "Tytuł zadania";
+"habit_name" = "Nazwa nawyku";
+"cancel" = "Anuluj";
+"add" = "Dodaj";
+"delete" = "Usuń";
+
+"new_task" = "Nowe Zadanie";
+"task_details" = "Szczegóły Zadania";
+"important" = "Ważne";
+"set_deadline" = "Ustaw Termin";
+"deadline" = "Termin";
+
+"new_habit" = "Nowy Nawyk";
+"habit_details" = "Szczegóły Nawyku";
+"choose_icon" = "Wybierz Ikonę";
+
+"all_tasks" = "Wszystkie Zadania";
+"upcoming" = "Nadchodzące";
+
+"day_streak" = "dni z rzędu";
+
+"weekly_tasks_completed" = "Tygodniowe Ukończone Zadania";
+"habits_progress" = "Postęp Nawyków";
+"achievements" = "Osiągnięcia";
+"activity_calendar" = "Kalendarz Aktywności";
+
+"achievement_first_task" = "Pierwsze Zadanie";
+"achievement_first_task_desc" = "Ukończ swoje pierwsze zadanie";
+"achievement_task_master" = "Mistrz Zadań";
+"achievement_task_master_desc" = "Ukończ 5 zadań w jeden dzień";
+"achievement_week_warrior" = "Tygodniowy Wojownik";
+"achievement_week_warrior_desc" = "Ukończ nawyki przez 7 dni z rzędu";
+"achievement_consistent" = "Konsekwentny";
+"achievement_consistent_desc" = "Używaj aplikacji przez 7 dni";
+"achievement_organized" = "Zorganizowany";
+"achievement_organized_desc" = "Utwórz 10 zadań";
+
+"language" = "Język";
+"select_language" = "Wybierz Język";
+"welcome" = "Witamy!";
+"choose_language" = "Wybierz swój język";
+"continue" = "Kontynuuj";
+
+"day_mon" = "P";
+"day_tue" = "W";
+"day_wed" = "Ś";
+"day_thu" = "C";
+"day_fri" = "P";
+"day_sat" = "S";
+"day_sun" = "N";
+

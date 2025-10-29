@@ -1,0 +1,59 @@
+"today" = "今天";
+"tasks" = "任務";
+"habits" = "習慣";
+"summary" = "總結";
+
+"daily_progress" = "每日進度";
+"complete" = "完成";
+
+"task_title" = "任務標題";
+"habit_name" = "習慣名稱";
+"cancel" = "取消";
+"add" = "新增";
+"delete" = "刪除";
+
+"new_task" = "新任務";
+"task_details" = "任務詳情";
+"important" = "重要";
+"set_deadline" = "設定截止日期";
+"deadline" = "截止日期";
+
+"new_habit" = "新習慣";
+"habit_details" = "習慣詳情";
+"choose_icon" = "選擇圖示";
+
+"all_tasks" = "所有任務";
+"upcoming" = "即將到來";
+
+"day_streak" = "天連續";
+
+"weekly_tasks_completed" = "每週完成的任務";
+"habits_progress" = "習慣進度";
+"achievements" = "成就";
+"activity_calendar" = "活動日曆";
+
+"achievement_first_task" = "第一個任務";
+"achievement_first_task_desc" = "完成你的第一個任務";
+"achievement_task_master" = "任務大師";
+"achievement_task_master_desc" = "一天完成5個任務";
+"achievement_week_warrior" = "週戰士";
+"achievement_week_warrior_desc" = "連續7天完成習慣";
+"achievement_consistent" = "堅持不懈";
+"achievement_consistent_desc" = "使用應用程式7天";
+"achievement_organized" = "井井有條";
+"achievement_organized_desc" = "建立10個任務";
+
+"language" = "語言";
+"select_language" = "選擇語言";
+"welcome" = "歡迎！";
+"choose_language" = "選擇你的語言";
+"continue" = "繼續";
+
+"day_mon" = "一";
+"day_tue" = "二";
+"day_wed" = "三";
+"day_thu" = "四";
+"day_fri" = "五";
+"day_sat" = "六";
+"day_sun" = "日";
+

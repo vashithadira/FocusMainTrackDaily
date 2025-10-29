@@ -1,0 +1,59 @@
+"today" = "Σήμερα";
+"tasks" = "Εργασίες";
+"habits" = "Συνήθειες";
+"summary" = "Σύνοψη";
+
+"daily_progress" = "Ημερήσια πρόοδος";
+"complete" = "Ολοκληρώθηκε";
+
+"task_title" = "Τίτλος εργασίας";
+"habit_name" = "Όνομα συνήθειας";
+"cancel" = "Ακύρωση";
+"add" = "Προσθήκη";
+"delete" = "Διαγραφή";
+
+"new_task" = "Νέα εργασία";
+"task_details" = "Λεπτομέρειες εργασίας";
+"important" = "Σημαντικό";
+"set_deadline" = "Ορισμός προθεσμίας";
+"deadline" = "Προθεσμία";
+
+"new_habit" = "Νέα συνήθεια";
+"habit_details" = "Λεπτομέρειες συνήθειας";
+"choose_icon" = "Επιλογή εικονιδίου";
+
+"all_tasks" = "Όλες οι εργασίες";
+"upcoming" = "Επερχόμενες";
+
+"day_streak" = "μέρες συνεχόμενα";
+
+"weekly_tasks_completed" = "Εβδομαδιαίες ολοκληρωμένες εργασίες";
+"habits_progress" = "Πρόοδος συνηθειών";
+"achievements" = "Επιτεύγματα";
+"activity_calendar" = "Ημερολόγιο δραστηριότητας";
+
+"achievement_first_task" = "Πρώτη εργασία";
+"achievement_first_task_desc" = "Ολοκλήρωσε την πρώτη εργασία";
+"achievement_task_master" = "Μάστορας εργασιών";
+"achievement_task_master_desc" = "Ολοκλήρωσε 5 εργασίες σε μία μέρα";
+"achievement_week_warrior" = "Πολεμιστής εβδομάδας";
+"achievement_week_warrior_desc" = "Ολοκλήρωσε συνήθειες για 7 μέρες συνεχόμενα";
+"achievement_consistent" = "Συνεπής";
+"achievement_consistent_desc" = "Χρησιμοποίησε την εφαρμογή για 7 μέρες";
+"achievement_organized" = "Οργανωμένος";
+"achievement_organized_desc" = "Δημιούργησε 10 εργασίες";
+
+"language" = "Γλώσσα";
+"select_language" = "Επιλογή γλώσσας";
+"welcome" = "Καλώς ήρθατε!";
+"choose_language" = "Επιλέξτε τη γλώσσα σας";
+"continue" = "Συνέχεια";
+
+"day_mon" = "Δ";
+"day_tue" = "Τ";
+"day_wed" = "Τ";
+"day_thu" = "Π";
+"day_fri" = "Π";
+"day_sat" = "Σ";
+"day_sun" = "Κ";
+

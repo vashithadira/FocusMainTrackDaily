@@ -1,0 +1,59 @@
+"today" = "Bugün";
+"tasks" = "Görevler";
+"habits" = "Alışkanlıklar";
+"summary" = "Özet";
+
+"daily_progress" = "Günlük ilerleme";
+"complete" = "Tamamlandı";
+
+"task_title" = "Görev başlığı";
+"habit_name" = "Alışkanlık adı";
+"cancel" = "İptal";
+"add" = "Ekle";
+"delete" = "Sil";
+
+"new_task" = "Yeni Görev";
+"task_details" = "Görev Detayları";
+"important" = "Önemli";
+"set_deadline" = "Son Tarihi Ayarla";
+"deadline" = "Son Tarih";
+
+"new_habit" = "Yeni Alışkanlık";
+"habit_details" = "Alışkanlık Detayları";
+"choose_icon" = "Simge Seç";
+
+"all_tasks" = "Tüm Görevler";
+"upcoming" = "Yaklaşan";
+
+"day_streak" = "gün sırası";
+
+"weekly_tasks_completed" = "Haftalık Tamamlanan Görevler";
+"habits_progress" = "Alışkanlık İlerlemesi";
+"achievements" = "Başarılar";
+"activity_calendar" = "Etkinlik Takvimi";
+
+"achievement_first_task" = "İlk Görev";
+"achievement_first_task_desc" = "İlk görevini tamamla";
+"achievement_task_master" = "Görev Ustası";
+"achievement_task_master_desc" = "Bir günde 5 görevi tamamla";
+"achievement_week_warrior" = "Hafta Savaşçısı";
+"achievement_week_warrior_desc" = "7 gün üst üste alışkanlıkları tamamla";
+"achievement_consistent" = "Tutarlı";
+"achievement_consistent_desc" = "Uygulamayı 7 gün kullan";
+"achievement_organized" = "Organize";
+"achievement_organized_desc" = "10 görev oluştur";
+
+"language" = "Dil";
+"select_language" = "Dil Seç";
+"welcome" = "Hoş geldiniz!";
+"choose_language" = "Dilinizi seçin";
+"continue" = "Devam";
+
+"day_mon" = "Pt";
+"day_tue" = "Sa";
+"day_wed" = "Ça";
+"day_thu" = "Pe";
+"day_fri" = "Cu";
+"day_sat" = "Ct";
+"day_sun" = "Pa";
+

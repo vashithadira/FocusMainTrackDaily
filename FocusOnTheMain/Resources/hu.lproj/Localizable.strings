@@ -1,0 +1,59 @@
+"today" = "Ma";
+"tasks" = "Feladatok";
+"habits" = "Szokások";
+"summary" = "Összefoglaló";
+
+"daily_progress" = "Napi előrehaladás";
+"complete" = "Kész";
+
+"task_title" = "Feladat címe";
+"habit_name" = "Szokás neve";
+"cancel" = "Mégsem";
+"add" = "Hozzáadás";
+"delete" = "Törlés";
+
+"new_task" = "Új feladat";
+"task_details" = "Feladat részletei";
+"important" = "Fontos";
+"set_deadline" = "Határidő beállítása";
+"deadline" = "Határidő";
+
+"new_habit" = "Új szokás";
+"habit_details" = "Szokás részletei";
+"choose_icon" = "Ikon kiválasztása";
+
+"all_tasks" = "Összes feladat";
+"upcoming" = "Közelgő";
+
+"day_streak" = "nap sorozat";
+
+"weekly_tasks_completed" = "Heti befejezett feladatok";
+"habits_progress" = "Szokások előrehaladása";
+"achievements" = "Eredmények";
+"activity_calendar" = "Aktivitás naptár";
+
+"achievement_first_task" = "Első feladat";
+"achievement_first_task_desc" = "Fejezd be az első feladatod";
+"achievement_task_master" = "Feladat mester";
+"achievement_task_master_desc" = "Fejezz be 5 feladatot egy nap alatt";
+"achievement_week_warrior" = "Heti harcos";
+"achievement_week_warrior_desc" = "Fejezz be szokásokat 7 napig egyhuzamban";
+"achievement_consistent" = "Következetes";
+"achievement_consistent_desc" = "Használd az alkalmazást 7 napig";
+"achievement_organized" = "Szervezett";
+"achievement_organized_desc" = "Hozz létre 10 feladatot";
+
+"language" = "Nyelv";
+"select_language" = "Nyelv kiválasztása";
+"welcome" = "Üdvözöljük!";
+"choose_language" = "Válassz nyelvet";
+"continue" = "Folytatás";
+
+"day_mon" = "H";
+"day_tue" = "K";
+"day_wed" = "Sz";
+"day_thu" = "Cs";
+"day_fri" = "P";
+"day_sat" = "Sz";
+"day_sun" = "V";
+

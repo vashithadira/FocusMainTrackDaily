@@ -1,0 +1,59 @@
+"today" = "Aujourd'hui";
+"tasks" = "Tâches";
+"habits" = "Habitudes";
+"summary" = "Résumé";
+
+"daily_progress" = "Progrès quotidien";
+"complete" = "Terminé";
+
+"task_title" = "Titre de tâche";
+"habit_name" = "Nom d'habitude";
+"cancel" = "Annuler";
+"add" = "Ajouter";
+"delete" = "Supprimer";
+
+"new_task" = "Nouvelle tâche";
+"task_details" = "Détails de tâche";
+"important" = "Important";
+"set_deadline" = "Définir une échéance";
+"deadline" = "Échéance";
+
+"new_habit" = "Nouvelle habitude";
+"habit_details" = "Détails d'habitude";
+"choose_icon" = "Choisir une icône";
+
+"all_tasks" = "Toutes les tâches";
+"upcoming" = "À venir";
+
+"day_streak" = "jours d'affilée";
+
+"weekly_tasks_completed" = "Tâches complétées hebdomadaires";
+"habits_progress" = "Progrès des habitudes";
+"achievements" = "Réalisations";
+"activity_calendar" = "Calendrier d'activité";
+
+"achievement_first_task" = "Première tâche";
+"achievement_first_task_desc" = "Complète ta première tâche";
+"achievement_task_master" = "Maître des tâches";
+"achievement_task_master_desc" = "Complète 5 tâches en un jour";
+"achievement_week_warrior" = "Guerrier hebdomadaire";
+"achievement_week_warrior_desc" = "Complète des habitudes pendant 7 jours";
+"achievement_consistent" = "Cohérent";
+"achievement_consistent_desc" = "Utilise l'application pendant 7 jours";
+"achievement_organized" = "Organisé";
+"achievement_organized_desc" = "Crée 10 tâches";
+
+"language" = "Langue";
+"select_language" = "Sélectionner la langue";
+"welcome" = "Bienvenue!";
+"choose_language" = "Choisis ta langue";
+"continue" = "Continuer";
+
+"day_mon" = "L";
+"day_tue" = "M";
+"day_wed" = "M";
+"day_thu" = "J";
+"day_fri" = "V";
+"day_sat" = "S";
+"day_sun" = "D";
+

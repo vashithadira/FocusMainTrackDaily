@@ -1,0 +1,59 @@
+"today" = "Сьогодні";
+"tasks" = "Завдання";
+"habits" = "Звички";
+"summary" = "Підсумок";
+
+"daily_progress" = "Щоденний прогрес";
+"complete" = "Виконано";
+
+"task_title" = "Назва завдання";
+"habit_name" = "Назва звички";
+"cancel" = "Скасувати";
+"add" = "Додати";
+"delete" = "Видалити";
+
+"new_task" = "Нове Завдання";
+"task_details" = "Деталі Завдання";
+"important" = "Важливо";
+"set_deadline" = "Встановити Термін";
+"deadline" = "Термін";
+
+"new_habit" = "Нова Звичка";
+"habit_details" = "Деталі Звички";
+"choose_icon" = "Вибрати Іконку";
+
+"all_tasks" = "Усі Завдання";
+"upcoming" = "Майбутні";
+
+"day_streak" = "днів поспіль";
+
+"weekly_tasks_completed" = "Тижневі Виконані Завдання";
+"habits_progress" = "Прогрес Звичок";
+"achievements" = "Досягнення";
+"activity_calendar" = "Календар Активності";
+
+"achievement_first_task" = "Перше Завдання";
+"achievement_first_task_desc" = "Виконай своє перше завдання";
+"achievement_task_master" = "Майстер Завдань";
+"achievement_task_master_desc" = "Виконай 5 завдань за один день";
+"achievement_week_warrior" = "Тижневий Воїн";
+"achievement_week_warrior_desc" = "Виконуй звички 7 днів поспіль";
+"achievement_consistent" = "Послідовний";
+"achievement_consistent_desc" = "Користуйся додатком 7 днів";
+"achievement_organized" = "Організований";
+"achievement_organized_desc" = "Створи 10 завдань";
+
+"language" = "Мова";
+"select_language" = "Вибрати Мову";
+"welcome" = "Ласкаво просимо!";
+"choose_language" = "Виберіть свою мову";
+"continue" = "Продовжити";
+
+"day_mon" = "П";
+"day_tue" = "В";
+"day_wed" = "С";
+"day_thu" = "Ч";
+"day_fri" = "П";
+"day_sat" = "С";
+"day_sun" = "Н";
+

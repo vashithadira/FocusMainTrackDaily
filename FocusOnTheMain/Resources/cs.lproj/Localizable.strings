@@ -1,0 +1,59 @@
+"today" = "Dnes";
+"tasks" = "Úkoly";
+"habits" = "Návyky";
+"summary" = "Shrnutí";
+
+"daily_progress" = "Denní pokrok";
+"complete" = "Hotovo";
+
+"task_title" = "Název úkolu";
+"habit_name" = "Název návyku";
+"cancel" = "Zrušit";
+"add" = "Přidat";
+"delete" = "Smazat";
+
+"new_task" = "Nový úkol";
+"task_details" = "Podrobnosti úkolu";
+"important" = "Důležité";
+"set_deadline" = "Nastavit termín";
+"deadline" = "Termín";
+
+"new_habit" = "Nový návyk";
+"habit_details" = "Podrobnosti návyku";
+"choose_icon" = "Vybrat ikonu";
+
+"all_tasks" = "Všechny úkoly";
+"upcoming" = "Nadcházející";
+
+"day_streak" = "dní v řadě";
+
+"weekly_tasks_completed" = "Týdenní dokončené úkoly";
+"habits_progress" = "Pokrok návyků";
+"achievements" = "Úspěchy";
+"activity_calendar" = "Kalendář aktivity";
+
+"achievement_first_task" = "První úkol";
+"achievement_first_task_desc" = "Dokončit první úkol";
+"achievement_task_master" = "Mistr úkolů";
+"achievement_task_master_desc" = "Dokončit 5 úkolů za den";
+"achievement_week_warrior" = "Týdenní bojovník";
+"achievement_week_warrior_desc" = "Dokončit návyky 7 dní v řadě";
+"achievement_consistent" = "Důsledný";
+"achievement_consistent_desc" = "Používat aplikaci 7 dní";
+"achievement_organized" = "Organizovaný";
+"achievement_organized_desc" = "Vytvořit 10 úkolů";
+
+"language" = "Jazyk";
+"select_language" = "Vybrat jazyk";
+"welcome" = "Vítejte!";
+"choose_language" = "Vyberte svůj jazyk";
+"continue" = "Pokračovat";
+
+"day_mon" = "P";
+"day_tue" = "Ú";
+"day_wed" = "S";
+"day_thu" = "Č";
+"day_fri" = "P";
+"day_sat" = "S";
+"day_sun" = "N";
+

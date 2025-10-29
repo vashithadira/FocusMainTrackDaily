@@ -1,0 +1,59 @@
+"today" = "Dnes";
+"tasks" = "Úlohy";
+"habits" = "Návyky";
+"summary" = "Zhrnutie";
+
+"daily_progress" = "Denný pokrok";
+"complete" = "Hotovo";
+
+"task_title" = "Názov úlohy";
+"habit_name" = "Názov návyku";
+"cancel" = "Zrušiť";
+"add" = "Pridať";
+"delete" = "Vymazať";
+
+"new_task" = "Nová Úloha";
+"task_details" = "Detaily Úlohy";
+"important" = "Dôležité";
+"set_deadline" = "Nastaviť Termín";
+"deadline" = "Termín";
+
+"new_habit" = "Nový Návyk";
+"habit_details" = "Detaily Návyku";
+"choose_icon" = "Vybrať Ikonu";
+
+"all_tasks" = "Všetky Úlohy";
+"upcoming" = "Nadchádzajúce";
+
+"day_streak" = "dní po sebe";
+
+"weekly_tasks_completed" = "Týždenné Dokončené Úlohy";
+"habits_progress" = "Pokrok Návykov";
+"achievements" = "Úspechy";
+"activity_calendar" = "Kalendár Aktivít";
+
+"achievement_first_task" = "Prvá Úloha";
+"achievement_first_task_desc" = "Dokončite svoju prvú úlohu";
+"achievement_task_master" = "Majster Úloh";
+"achievement_task_master_desc" = "Dokončite 5 úloh za jeden deň";
+"achievement_week_warrior" = "Týždenný Bojovník";
+"achievement_week_warrior_desc" = "Dokončite návyky 7 dní po sebe";
+"achievement_consistent" = "Konzistentný";
+"achievement_consistent_desc" = "Používajte aplikáciu 7 dní";
+"achievement_organized" = "Organizovaný";
+"achievement_organized_desc" = "Vytvorte 10 úloh";
+
+"language" = "Jazyk";
+"select_language" = "Vybrať Jazyk";
+"welcome" = "Vitajte!";
+"choose_language" = "Vyberte si jazyk";
+"continue" = "Pokračovať";
+
+"day_mon" = "P";
+"day_tue" = "U";
+"day_wed" = "S";
+"day_thu" = "Š";
+"day_fri" = "P";
+"day_sat" = "S";
+"day_sun" = "N";
+

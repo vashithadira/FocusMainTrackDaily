@@ -1,0 +1,59 @@
+"today" = "Hoje";
+"tasks" = "Tarefas";
+"habits" = "Hábitos";
+"summary" = "Resumo";
+
+"daily_progress" = "Progresso diário";
+"complete" = "Completo";
+
+"task_title" = "Título da tarefa";
+"habit_name" = "Nome do hábito";
+"cancel" = "Cancelar";
+"add" = "Adicionar";
+"delete" = "Excluir";
+
+"new_task" = "Nova Tarefa";
+"task_details" = "Detalhes da Tarefa";
+"important" = "Importante";
+"set_deadline" = "Definir Prazo";
+"deadline" = "Prazo";
+
+"new_habit" = "Novo Hábito";
+"habit_details" = "Detalhes do Hábito";
+"choose_icon" = "Escolher Ícone";
+
+"all_tasks" = "Todas as Tarefas";
+"upcoming" = "Próximas";
+
+"day_streak" = "dias seguidos";
+
+"weekly_tasks_completed" = "Tarefas Semanais Concluídas";
+"habits_progress" = "Progresso dos Hábitos";
+"achievements" = "Conquistas";
+"activity_calendar" = "Calendário de Atividades";
+
+"achievement_first_task" = "Primeira Tarefa";
+"achievement_first_task_desc" = "Complete sua primeira tarefa";
+"achievement_task_master" = "Mestre das Tarefas";
+"achievement_task_master_desc" = "Complete 5 tarefas em um dia";
+"achievement_week_warrior" = "Guerreiro da Semana";
+"achievement_week_warrior_desc" = "Complete hábitos por 7 dias seguidos";
+"achievement_consistent" = "Consistente";
+"achievement_consistent_desc" = "Use o aplicativo por 7 dias";
+"achievement_organized" = "Organizado";
+"achievement_organized_desc" = "Crie 10 tarefas";
+
+"language" = "Idioma";
+"select_language" = "Selecionar Idioma";
+"welcome" = "Bem-vindo!";
+"choose_language" = "Escolha seu idioma";
+"continue" = "Continuar";
+
+"day_mon" = "S";
+"day_tue" = "T";
+"day_wed" = "Q";
+"day_thu" = "Q";
+"day_fri" = "S";
+"day_sat" = "S";
+"day_sun" = "D";
+

@@ -1,0 +1,59 @@
+"today" = "Tänään";
+"tasks" = "Tehtävät";
+"habits" = "Tavat";
+"summary" = "Yhteenveto";
+
+"daily_progress" = "Päivittäinen edistyminen";
+"complete" = "Valmis";
+
+"task_title" = "Tehtävän nimi";
+"habit_name" = "Tavan nimi";
+"cancel" = "Peruuta";
+"add" = "Lisää";
+"delete" = "Poista";
+
+"new_task" = "Uusi tehtävä";
+"task_details" = "Tehtävän tiedot";
+"important" = "Tärkeä";
+"set_deadline" = "Aseta määräaika";
+"deadline" = "Määräaika";
+
+"new_habit" = "Uusi tapa";
+"habit_details" = "Tavan tiedot";
+"choose_icon" = "Valitse kuvake";
+
+"all_tasks" = "Kaikki tehtävät";
+"upcoming" = "Tulevat";
+
+"day_streak" = "päivää putkeen";
+
+"weekly_tasks_completed" = "Viikottain suoritetut tehtävät";
+"habits_progress" = "Tapojen edistyminen";
+"achievements" = "Saavutukset";
+"activity_calendar" = "Toimintakalenteri";
+
+"achievement_first_task" = "Ensimmäinen tehtävä";
+"achievement_first_task_desc" = "Suorita ensimmäinen tehtävä";
+"achievement_task_master" = "Tehtävämestari";
+"achievement_task_master_desc" = "Suorita 5 tehtävää päivässä";
+"achievement_week_warrior" = "Viikkosotauri";
+"achievement_week_warrior_desc" = "Suorita tavat 7 päivää peräkkäin";
+"achievement_consistent" = "Johdonmukainen";
+"achievement_consistent_desc" = "Käytä sovellusta 7 päivää";
+"achievement_organized" = "Järjestäytynyt";
+"achievement_organized_desc" = "Luo 10 tehtävää";
+
+"language" = "Kieli";
+"select_language" = "Valitse kieli";
+"welcome" = "Tervetuloa!";
+"choose_language" = "Valitse kieli";
+"continue" = "Jatka";
+
+"day_mon" = "M";
+"day_tue" = "T";
+"day_wed" = "K";
+"day_thu" = "T";
+"day_fri" = "P";
+"day_sat" = "L";
+"day_sun" = "S";
+

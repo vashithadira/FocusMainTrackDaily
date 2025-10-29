@@ -1,0 +1,59 @@
+"today" = "Avui";
+"tasks" = "Tasques";
+"habits" = "Hàbits";
+"summary" = "Resum";
+
+"daily_progress" = "Progrés diari";
+"complete" = "Complet";
+
+"task_title" = "Títol de la tasca";
+"habit_name" = "Nom de l'hàbit";
+"cancel" = "Cancel·lar";
+"add" = "Afegir";
+"delete" = "Eliminar";
+
+"new_task" = "Nova tasca";
+"task_details" = "Detalls de la tasca";
+"important" = "Important";
+"set_deadline" = "Establir data límit";
+"deadline" = "Data límit";
+
+"new_habit" = "Nou hàbit";
+"habit_details" = "Detalls de l'hàbit";
+"choose_icon" = "Triar icona";
+
+"all_tasks" = "Totes les tasques";
+"upcoming" = "Pròximes";
+
+"day_streak" = "dies seguits";
+
+"weekly_tasks_completed" = "Tasques completades setmanalment";
+"habits_progress" = "Progrés dels hàbits";
+"achievements" = "Assoliments";
+"activity_calendar" = "Calendari d'activitat";
+
+"achievement_first_task" = "Primera tasca";
+"achievement_first_task_desc" = "Completa la teva primera tasca";
+"achievement_task_master" = "Mestre de tasques";
+"achievement_task_master_desc" = "Completa 5 tasques en un dia";
+"achievement_week_warrior" = "Guerrer setmanal";
+"achievement_week_warrior_desc" = "Completa hàbits durant 7 dies seguits";
+"achievement_consistent" = "Consistent";
+"achievement_consistent_desc" = "Utilitza l'aplicació durant 7 dies";
+"achievement_organized" = "Organitzat";
+"achievement_organized_desc" = "Crea 10 tasques";
+
+"language" = "Idioma";
+"select_language" = "Seleccionar idioma";
+"welcome" = "Benvingut!";
+"choose_language" = "Tria el teu idioma";
+"continue" = "Continuar";
+
+"day_mon" = "L";
+"day_tue" = "M";
+"day_wed" = "X";
+"day_thu" = "J";
+"day_fri" = "V";
+"day_sat" = "S";
+"day_sun" = "D";
+

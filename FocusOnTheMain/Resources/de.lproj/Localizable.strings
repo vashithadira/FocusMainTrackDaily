@@ -1,0 +1,59 @@
+"today" = "Heute";
+"tasks" = "Aufgaben";
+"habits" = "Gewohnheiten";
+"summary" = "Zusammenfassung";
+
+"daily_progress" = "Täglicher Fortschritt";
+"complete" = "Abgeschlossen";
+
+"task_title" = "Aufgabentitel";
+"habit_name" = "Gewohnheitsname";
+"cancel" = "Abbrechen";
+"add" = "Hinzufügen";
+"delete" = "Löschen";
+
+"new_task" = "Neue Aufgabe";
+"task_details" = "Aufgabendetails";
+"important" = "Wichtig";
+"set_deadline" = "Frist setzen";
+"deadline" = "Frist";
+
+"new_habit" = "Neue Gewohnheit";
+"habit_details" = "Gewohnheitsdetails";
+"choose_icon" = "Symbol wählen";
+
+"all_tasks" = "Alle Aufgaben";
+"upcoming" = "Bevorstehend";
+
+"day_streak" = "Tage in Folge";
+
+"weekly_tasks_completed" = "Wöchentlich erledigte Aufgaben";
+"habits_progress" = "Gewohnheitsfortschritt";
+"achievements" = "Erfolge";
+"activity_calendar" = "Aktivitätskalender";
+
+"achievement_first_task" = "Erste Aufgabe";
+"achievement_first_task_desc" = "Erledige deine erste Aufgabe";
+"achievement_task_master" = "Aufgabenmeister";
+"achievement_task_master_desc" = "Erledige 5 Aufgaben an einem Tag";
+"achievement_week_warrior" = "Wochenkrieger";
+"achievement_week_warrior_desc" = "Erledige Gewohnheiten 7 Tage lang";
+"achievement_consistent" = "Konsequent";
+"achievement_consistent_desc" = "Nutze die App 7 Tage lang";
+"achievement_organized" = "Organisiert";
+"achievement_organized_desc" = "Erstelle 10 Aufgaben";
+
+"language" = "Sprache";
+"select_language" = "Sprache auswählen";
+"welcome" = "Willkommen!";
+"choose_language" = "Wähle deine Sprache";
+"continue" = "Fortfahren";
+
+"day_mon" = "M";
+"day_tue" = "D";
+"day_wed" = "M";
+"day_thu" = "D";
+"day_fri" = "F";
+"day_sat" = "S";
+"day_sun" = "S";
+

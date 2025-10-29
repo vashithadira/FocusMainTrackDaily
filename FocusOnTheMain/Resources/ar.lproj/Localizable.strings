@@ -1,0 +1,59 @@
+"today" = "اليوم";
+"tasks" = "المهام";
+"habits" = "العادات";
+"summary" = "الملخص";
+
+"daily_progress" = "التقدم اليومي";
+"complete" = "مكتمل";
+
+"task_title" = "عنوان المهمة";
+"habit_name" = "اسم العادة";
+"cancel" = "إلغاء";
+"add" = "إضافة";
+"delete" = "حذف";
+
+"new_task" = "مهمة جديدة";
+"task_details" = "تفاصيل المهمة";
+"important" = "مهم";
+"set_deadline" = "تعيين موعد نهائي";
+"deadline" = "الموعد النهائي";
+
+"new_habit" = "عادة جديدة";
+"habit_details" = "تفاصيل العادة";
+"choose_icon" = "اختر أيقونة";
+
+"all_tasks" = "جميع المهام";
+"upcoming" = "القادمة";
+
+"day_streak" = "يوم متتالي";
+
+"weekly_tasks_completed" = "المهام المكتملة أسبوعيا";
+"habits_progress" = "تقدم العادات";
+"achievements" = "الإنجازات";
+"activity_calendar" = "تقويم النشاط";
+
+"achievement_first_task" = "المهمة الأولى";
+"achievement_first_task_desc" = "أكمل مهمتك الأولى";
+"achievement_task_master" = "سيد المهام";
+"achievement_task_master_desc" = "أكمل 5 مهام في يوم واحد";
+"achievement_week_warrior" = "محارب الأسبوع";
+"achievement_week_warrior_desc" = "أكمل العادات لمدة 7 أيام متتالية";
+"achievement_consistent" = "متسق";
+"achievement_consistent_desc" = "استخدم التطبيق لمدة 7 أيام";
+"achievement_organized" = "منظم";
+"achievement_organized_desc" = "أنشئ 10 مهام";
+
+"language" = "اللغة";
+"select_language" = "اختر اللغة";
+"welcome" = "مرحبا!";
+"choose_language" = "اختر لغتك";
+"continue" = "متابعة";
+
+"day_mon" = "ن";
+"day_tue" = "ث";
+"day_wed" = "ر";
+"day_thu" = "خ";
+"day_fri" = "ج";
+"day_sat" = "س";
+"day_sun" = "ح";
+

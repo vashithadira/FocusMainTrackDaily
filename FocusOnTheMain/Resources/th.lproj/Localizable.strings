@@ -1,0 +1,59 @@
+"today" = "วันนี้";
+"tasks" = "งาน";
+"habits" = "นิสัย";
+"summary" = "สรุป";
+
+"daily_progress" = "ความคืบหน้ารายวัน";
+"complete" = "เสร็จสมบูรณ์";
+
+"task_title" = "ชื่องาน";
+"habit_name" = "ชื่อนิสัย";
+"cancel" = "ยกเลิก";
+"add" = "เพิ่ม";
+"delete" = "ลบ";
+
+"new_task" = "งานใหม่";
+"task_details" = "รายละเอียดงาน";
+"important" = "สำคัญ";
+"set_deadline" = "ตั้งกำหนดเส้นตาย";
+"deadline" = "กำหนดเส้นตาย";
+
+"new_habit" = "นิสัยใหม่";
+"habit_details" = "รายละเอียดนิสัย";
+"choose_icon" = "เลือกไอคอน";
+
+"all_tasks" = "งานทั้งหมด";
+"upcoming" = "กำลังจะมาถึง";
+
+"day_streak" = "วันติดต่อกัน";
+
+"weekly_tasks_completed" = "งานที่เสร็จสิ้นรายสัปดาห์";
+"habits_progress" = "ความคืบหน้านิสัย";
+"achievements" = "ความสำเร็จ";
+"activity_calendar" = "ปฏิทินกิจกรรม";
+
+"achievement_first_task" = "งานแรก";
+"achievement_first_task_desc" = "ทำงานแรกของคุณให้เสร็จ";
+"achievement_task_master" = "ปรมาจารย์งาน";
+"achievement_task_master_desc" = "ทำงาน 5 งานให้เสร็จในหนึ่งวัน";
+"achievement_week_warrior" = "นักรบสัปดาห์";
+"achievement_week_warrior_desc" = "ทำนิสัยให้เสร็จ 7 วันติดต่อกัน";
+"achievement_consistent" = "สม่ำเสมอ";
+"achievement_consistent_desc" = "ใช้แอปเป็นเวลา 7 วัน";
+"achievement_organized" = "เป็นระเบียบ";
+"achievement_organized_desc" = "สร้าง 10 งาน";
+
+"language" = "ภาษา";
+"select_language" = "เลือกภาษา";
+"welcome" = "ยินดีต้อนรับ!";
+"choose_language" = "เลือกภาษาของคุณ";
+"continue" = "ดำเนินการต่อ";
+
+"day_mon" = "จ";
+"day_tue" = "อ";
+"day_wed" = "พ";
+"day_thu" = "พฤ";
+"day_fri" = "ศ";
+"day_sat" = "ส";
+"day_sun" = "อา";
+

@@ -1,0 +1,59 @@
+"today" = "Сегодня";
+"tasks" = "Задачи";
+"habits" = "Привычки";
+"summary" = "Сводка";
+
+"daily_progress" = "Дневной прогресс";
+"complete" = "Выполнено";
+
+"task_title" = "Название задачи";
+"habit_name" = "Название привычки";
+"cancel" = "Отмена";
+"add" = "Добавить";
+"delete" = "Удалить";
+
+"new_task" = "Новая задача";
+"task_details" = "Детали задачи";
+"important" = "Важная";
+"set_deadline" = "Установить дедлайн";
+"deadline" = "Дедлайн";
+
+"new_habit" = "Новая привычка";
+"habit_details" = "Детали привычки";
+"choose_icon" = "Выберите иконку";
+
+"all_tasks" = "Все задачи";
+"upcoming" = "Предстоящие";
+
+"day_streak" = "дней подряд";
+
+"weekly_tasks_completed" = "Задач выполнено за неделю";
+"habits_progress" = "Прогресс привычек";
+"achievements" = "Достижения";
+"activity_calendar" = "Календарь активности";
+
+"achievement_first_task" = "Первая задача";
+"achievement_first_task_desc" = "Завершите первую задачу";
+"achievement_task_master" = "Мастер задач";
+"achievement_task_master_desc" = "Завершите 5 задач за день";
+"achievement_week_warrior" = "Недельный воин";
+"achievement_week_warrior_desc" = "Выполняйте привычки 7 дней подряд";
+"achievement_consistent" = "Последовательный";
+"achievement_consistent_desc" = "Используйте приложение 7 дней";
+"achievement_organized" = "Организованный";
+"achievement_organized_desc" = "Создайте 10 задач";
+
+"language" = "Язык";
+"select_language" = "Выберите язык";
+"welcome" = "Добро пожаловать!";
+"choose_language" = "Выберите язык";
+"continue" = "Продолжить";
+
+"day_mon" = "П";
+"day_tue" = "В";
+"day_wed" = "С";
+"day_thu" = "Ч";
+"day_fri" = "П";
+"day_sat" = "С";
+"day_sun" = "В";
+

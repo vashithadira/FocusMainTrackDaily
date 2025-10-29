@@ -1,0 +1,59 @@
+"today" = "今日";
+"tasks" = "タスク";
+"habits" = "習慣";
+"summary" = "概要";
+
+"daily_progress" = "日次の進捗";
+"complete" = "完了";
+
+"task_title" = "タスクのタイトル";
+"habit_name" = "習慣の名前";
+"cancel" = "キャンセル";
+"add" = "追加";
+"delete" = "削除";
+
+"new_task" = "新しいタスク";
+"task_details" = "タスクの詳細";
+"important" = "重要";
+"set_deadline" = "期限を設定";
+"deadline" = "期限";
+
+"new_habit" = "新しい習慣";
+"habit_details" = "習慣の詳細";
+"choose_icon" = "アイコンを選択";
+
+"all_tasks" = "すべてのタスク";
+"upcoming" = "今後";
+
+"day_streak" = "日連続";
+
+"weekly_tasks_completed" = "週次完了タスク";
+"habits_progress" = "習慣の進捗";
+"achievements" = "実績";
+"activity_calendar" = "活動カレンダー";
+
+"achievement_first_task" = "最初のタスク";
+"achievement_first_task_desc" = "最初のタスクを完了する";
+"achievement_task_master" = "タスクマスター";
+"achievement_task_master_desc" = "1日で5つのタスクを完了する";
+"achievement_week_warrior" = "週次戦士";
+"achievement_week_warrior_desc" = "7日間連続で習慣を完了する";
+"achievement_consistent" = "一貫性";
+"achievement_consistent_desc" = "7日間アプリを使用する";
+"achievement_organized" = "整理された";
+"achievement_organized_desc" = "10個のタスクを作成する";
+
+"language" = "言語";
+"select_language" = "言語を選択";
+"welcome" = "ようこそ！";
+"choose_language" = "言語を選択してください";
+"continue" = "続ける";
+
+"day_mon" = "月";
+"day_tue" = "火";
+"day_wed" = "水";
+"day_thu" = "木";
+"day_fri" = "金";
+"day_sat" = "土";
+"day_sun" = "日";
+
